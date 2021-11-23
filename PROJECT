@@ -1,0 +1,6 @@
+domain: techsquad.rocks
+layout:
+- go.kubebuilder.io/v3
+projectName: kubernetes
+repo: techsquad.rocks
+version: "3"
